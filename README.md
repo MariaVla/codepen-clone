@@ -1,4 +1,5 @@
-# CodePen Clone
+# PWA CodePen Clone
+
 
 Based on this video [How To Build CodePen With React](https://www.youtube.com/watch?v=wcVxX7lu2d4)
 
@@ -13,7 +14,7 @@ Solution based on this two npm package [`codemirror`](https://github.com/codemir
 
 ## Available Scripts
 
-### `yarn start`
+* `yarn start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
