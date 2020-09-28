@@ -23,6 +23,7 @@ export default function Editor(props) {
         <button
           type="button"
           className="expand-collapse-btn"
+          aria-label="expand-collapse"
           onClick={() => setOpen((prevOpen) => !prevOpen)}
         >
           <FontAwesomeIcon icon={open ? faCompressAlt : faExpandAlt} />
