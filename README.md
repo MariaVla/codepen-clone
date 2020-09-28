@@ -4,6 +4,13 @@ Based on this video [How To Build CodePen With React](https://www.youtube.com/wa
 
 Solution based on this two npm package [`codemirror`](https://github.com/codemirror/CodeMirror) and [`react-codemirror2`](https://www.npmjs.com/package/react-codemirror2) to add a text editor to React.
 
+## Run the project
+
+* `$ git clone https://github.com/MariaVla/codepen-clone.git`
+
+* `$ yarn install`
+
+
 ## Available Scripts
 
 ### `yarn start`
