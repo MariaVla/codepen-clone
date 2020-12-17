@@ -19,9 +19,6 @@ Then we add the config to make it a PWA.
 
 * `$ yarn install`
 
-
-## Available Scripts
-
 * `$ yarn start`
 
 Runs the app in the development mode.<br />
