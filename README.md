@@ -1,7 +1,5 @@
 # PWA CodePen Clone
 
-Based on this video [How To Build CodePen With React](https://www.youtube.com/watch?v=wcVxX7lu2d4)
-
 We used this packages to add text editor to React
 
 * [`codemirror`](https://github.com/codemirror/CodeMirror)
